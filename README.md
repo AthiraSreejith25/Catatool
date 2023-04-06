@@ -1,4 +1,4 @@
-# Catatool: A Custom Built Server Cataloguing Tool
+# Catatool: A Custom-Built Server Cataloguing Tool
 
 A server cataloguing tool I built for the EHPC server at the EHEP Lab at IISER Mohali. It is not a full-fledged tool and does not do end-to-end automation.
 
